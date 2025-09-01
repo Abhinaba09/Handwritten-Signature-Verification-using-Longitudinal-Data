@@ -1,1 +1,0 @@
-# Handwritten-Signature-Verification-using-Longitudinal-Data
